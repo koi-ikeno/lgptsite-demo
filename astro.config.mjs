@@ -22,25 +22,25 @@ export default defineConfig({
       // Each item here is one entry in the navigation menu. path in lowercase letter
       {
         label: 'What is LittleGPTracker?',
-        link: '/lgptsite-demo/guides/wiki/what-is-littlegptracker'
+        link: '/guides/wiki/what-is-littlegptracker'
       }, {
         label: 'Ubuntu Install',
-        link: '/lgptsite-demo/guides/wiki/ubuntu_install'
+        link: '/guides/wiki/ubuntu_install'
       }, {
         label: 'LGPTConfiguration',
-        link: '/lgptsite-demo/guides/lgptconfiguration'
+        link: '/guides/lgptconfiguration'
       }, {
         label: 'mapping.xml',
-        link: '/lgptsite-demo/guides/wiki/mapping_xml'
+        link: '/guides/wiki/mapping_xml'
       }, {
         label: 'config.xml',
-        link: '/lgptsite-demo/guides/wiki/config_xml'
+        link: '/guides/wiki/config_xml'
       }, {
         label: 'tips and tricks',
-        link: '/lgptsite-demo/guides/wiki/tips_and_tricks'
+        link: '/guides/wiki/tips_and_tricks'
       }, {
         label: 'MIDI',
-        link: '/lgptsite-demo/guides/wiki/lgpt_midi'
+        link: '/guides/wiki/lgpt_midi'
       }]
     }, {
       label: 'Downloads',
@@ -50,7 +50,7 @@ export default defineConfig({
       }]
     }, {
       label: 'Link',
-      link: '/lgptsite-demo/guides/link'
+      link: '/guides/link'
     }]
   }), 
   tailwind({
